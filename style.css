@@ -1,4 +1,12 @@
-* {
+* {root
+   -primeira-cor: "#233D4D"
+   -segunda-cor:  "#ABFCB1"
+
+   --borda: "#FCCA46"
+
+   --fundo: "#A1C181"
+   --texto: "#A1C181"
+
     margin: 0;
     padding: 0;
 }
